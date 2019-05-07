@@ -334,7 +334,7 @@ AST
 ~~~
 
 The AST (Abstract Syntax Tree) is used to represent a template after parsing.
-It's build of nodes that the compiler then converts into executable Python
+It's built of nodes that the compiler then converts into executable Python
 code objects.  Extensions that provide custom statements can return nodes to
 execute custom Python code.
 
